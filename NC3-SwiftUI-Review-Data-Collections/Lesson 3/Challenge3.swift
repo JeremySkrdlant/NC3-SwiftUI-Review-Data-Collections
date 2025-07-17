@@ -3,16 +3,6 @@
 import SwiftUI
 
 struct Challenge3: View {
-    @State var itemAmounts:[Int] = []
-    @State var currentWeight:Double = 0
-    var totalWeight:Double{
-        var sum = 0
-        for item in itemAmounts{
-          sum += item
-        }
-        return Double(sum)
-    }
-    
     var body: some View {
         Text("Your goal is to try to get your phone to look as close to the image shown in the first tab. Note that this one has more instructions when you scroll down on the simulator.")
             .padding()
