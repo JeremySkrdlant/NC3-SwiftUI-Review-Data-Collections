@@ -6,8 +6,10 @@
  * @State Variables
  * TextFields
  * Sliders
+ * Toggles
  * Gauges
  * Computed Variables
+ * Ternary Operators
  **/
 
 import SwiftUI

@@ -5,7 +5,6 @@
  * Creating a Struct
  * Creating an Instance
  * Filling out a view using dot notation
- * Ternary Operators
  **/
 
 import SwiftUI
