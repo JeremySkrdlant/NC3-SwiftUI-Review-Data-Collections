@@ -2,6 +2,7 @@
 
 /**********************
  - To be reviewed
+ * Create Enums
  * Creating a Struct
  * Creating an Instance
  * Filling out a view using dot notation
