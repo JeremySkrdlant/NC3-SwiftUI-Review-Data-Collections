@@ -21,6 +21,7 @@ Tutorial Area
 // | message            |
 // | author             |
 // | noteColor          |
+// | fontSize           | 
 // | degreesOfRotation  |
 // |--------------------|
 
