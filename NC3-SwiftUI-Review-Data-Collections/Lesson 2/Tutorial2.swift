@@ -6,6 +6,7 @@
  * Shadows
  * Opacity
  * Fonts
+ * .bold()
  * Resizable
  * Aspect Ratio
  * Background
